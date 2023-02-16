@@ -1,0 +1,129 @@
+#box {
+    box-sizing: content-box;  
+    width: 300px;
+    height: 100px;
+    padding: 30px;  
+    border: 0px solid #4A7375;
+    background-color: #4A7375;
+  }
+.left_heading
+{
+    position: absolute;
+    /* background-color: rgb(5, 70, 69); */
+    color: white;
+    top:0px;
+    left:900px;
+    font-size: 40px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    padding: 50px 50px 50px 42px;
+    background:#3f6766cd;
+}
+.big1
+{
+    font-size: 70px;
+    color: #E96340;
+    font-weight: bold;
+    padding-left: 90px;
+    position: absolute; 
+    flex-direction: row;
+    display: flex;
+    top:40px; 
+}
+.contain1
+{
+    color:rgb(13, 97, 85);
+    position: absolute;
+    flex-direction:column;
+    display: flex;
+    flex-direction: row; 
+    left:200px;
+    top:65px;   
+}
+.description1
+{
+    padding-left: 180px;
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    top:88px;
+    left: 20px;
+   
+}
+.big2
+{
+    font-size: 70px;
+    color: #E96340;
+    font-weight: bold;
+    padding-left: 90px;
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    top:170px;
+}
+.contain2
+{
+    color:rgb(13, 97, 85);
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    left: 200px;
+    top:200px;  
+}
+.description2
+{
+    padding-left: 180px;
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    top:225px;
+    left: 20px;
+}
+.big3
+{
+    font-size: 70px;
+    color: #E96340;
+    font-weight: bold;
+    padding-left: 90px;
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    top:300px;
+}
+.contain3
+{
+    color:rgb(13, 97, 85);
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    left: 200px;
+    top:325px;  
+}
+.description3
+{
+    padding-left: 180px;
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    top:348px;
+    left: 20px;
+}
+
+.right_side_heading
+{
+    color: white;
+    padding-left: 200px;
+    padding-top: 50px;
+    margin: 20px 20px 50px 20px;
+}
+.right_side_contain
+{
+    padding-left: 100px;
+    color: white;
+    /* padding-top: 50px; */   
+}
+.right_side_contain2
+{
+    padding-left: 50px;
+    color: white;
+}
