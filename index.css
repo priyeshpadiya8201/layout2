@@ -13,6 +13,7 @@
     color: white;
     top:0px;
     left:900px;
+    flex-direction: row;
     font-size: 40px;
     border-bottom-left-radius: 150px;
     border-bottom-right-radius: 150px;
@@ -29,6 +30,7 @@
     flex-direction: row;
     display: flex;
     top:40px; 
+    
 }
 .contain1
 {
